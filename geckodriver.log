@@ -1,0 +1,240 @@
+1751632898987	geckodriver	INFO	Listening on 127.0.0.1:50094
+1751632900991	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "50095" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Administrator\\AppData\\Local\\Temp\\rust_mozprofilexzUTem"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+Dynamically enable window occlusion 0
+1751632904144	Marionette	INFO	Marionette enabled
+1751632904233	Marionette	INFO	Listening on port 50102
+WebDriver BiDi listening on ws://127.0.0.1:50095
+Read port: 50102
+1751632904386	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:50095/devtools/browser/0df38301-8918-401e-8e4c-30c5601e5d0d
+JavaScript warning: https://hectorstatic.baidu.com/cd37ed75a9387c5b.js, line 1: Failed to create WebGL context: WebGL creation failed: 
+* AllowWebgl2:false restricts context creation on this system. ()
+JavaScript warning: https://hectorstatic.baidu.com/cd37ed75a9387c5b.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1751632916528	Marionette	INFO	Stopped listening on port 50102
+Dynamically enable window occlusion 1
+console.error: (new TypeError("NetworkError: Network request failed", "resource://services-settings/Utils.sys.mjs", 236))
+console.error: (new TypeError("NetworkError: Network request failed", "resource://services-settings/Utils.sys.mjs", 236))
+console.error: (new TypeError("NetworkError: Network request failed", "resource://services-settings/Utils.sys.mjs", 236))
+1765933474223	geckodriver	INFO	Listening on 127.0.0.1:50086
+1765933476248	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "50087" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Administrator\\AppData\\Local\\Temp\\rust_mozprofilem0tmFD"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+Dynamically enable window occlusion 0
+1765933477576	Marionette	INFO	Marionette enabled
+1765933477697	Marionette	INFO	Listening on port 50094
+WebDriver BiDi listening on ws://127.0.0.1:50087
+Read port: 50094
+1765933477919	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:50087/devtools/browser/12490551-0be2-4500-8631-517c2d5eacec
+JavaScript warning: http://localhost/template/pc/rainbow/static/js/jquery-1.9.1.min.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: http://localhost/template/pc/rainbow/static/js/jquery-1.9.1.min.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1765933482514	Marionette	INFO	Stopped listening on port 50094
+Dynamically enable window occlusion 1
+console.error: services.settings: 
+  main/fingerprinting-protection-overrides Signature failed  TypeError: NetworkError: Network request failed
+console.error: (new NetworkError("Network error: TypeError: NetworkError: Network request failed", "resource://services-settings/RemoteSettingsClient.sys.mjs", 107))
+1765933850576	geckodriver	INFO	Listening on 127.0.0.1:50245
+1765933852581	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "50246" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Administrator\\AppData\\Local\\Temp\\rust_mozprofileIOly9p"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+Dynamically enable window occlusion 0
+1765933853701	Marionette	INFO	Marionette enabled
+1765933853782	Marionette	INFO	Listening on port 50253
+Read port: 50253
+WebDriver BiDi listening on ws://127.0.0.1:50246
+1765933853842	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:50246/devtools/browser/85d5fe2a-a774-412d-8767-9e92f297dd00
+JavaScript warning: http://localhost/template/pc/rainbow/static/js/jquery-1.9.1.min.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: http://localhost/template/pc/rainbow/static/js/jquery-1.9.1.min.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript error: http://api.tpsns.com/js/ajax2.js, line 1: SyntaxError: expected expression, got '%'
+1765933864942	Marionette	INFO	Stopped listening on port 50253
+Dynamically enable window occlusion 1
+1765933904811	geckodriver	INFO	Listening on 127.0.0.1:50304
+1765933906830	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "50305" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Administrator\\AppData\\Local\\Temp\\rust_mozprofileWBobRO"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+Dynamically enable window occlusion 0
+1765933907115	Marionette	INFO	Marionette enabled
+1765933907194	Marionette	INFO	Listening on port 50312
+WebDriver BiDi listening on ws://127.0.0.1:50305
+Read port: 50312
+1765933907332	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:50305/devtools/browser/037f3611-96e4-46f0-91ce-1a3a079dc122
+JavaScript warning: http://localhost/template/pc/rainbow/static/js/jquery-1.9.1.min.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: http://localhost/template/pc/rainbow/static/js/jquery-1.9.1.min.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1765933912416	Marionette	INFO	Stopped listening on port 50312
+Dynamically enable window occlusion 1
+1765933920382	geckodriver	INFO	Listening on 127.0.0.1:50340
+1765933922398	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "50341" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Administrator\\AppData\\Local\\Temp\\rust_mozprofilejdHTAD"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+Dynamically enable window occlusion 0
+1765933922704	Marionette	INFO	Marionette enabled
+1765933922781	Marionette	INFO	Listening on port 50348
+WebDriver BiDi listening on ws://127.0.0.1:50341
+Read port: 50348
+1765933922907	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:50341/devtools/browser/6932afb8-198e-46e6-b3c0-eac4289a07c1
+JavaScript warning: http://localhost/template/pc/rainbow/static/js/jquery-1.9.1.min.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: http://localhost/template/pc/rainbow/static/js/jquery-1.9.1.min.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1765933929843	Marionette	INFO	Stopped listening on port 50348
+Dynamically enable window occlusion 1
+1765934213770	geckodriver	INFO	Listening on 127.0.0.1:50393
+1765934215785	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "50394" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Administrator\\AppData\\Local\\Temp\\rust_mozprofileWSVhzh"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+Dynamically enable window occlusion 0
+1765934216530	Marionette	INFO	Marionette enabled
+1765934216608	Marionette	INFO	Listening on port 50401
+WebDriver BiDi listening on ws://127.0.0.1:50394
+Read port: 50401
+1765934216750	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:50394/devtools/browser/7e9b98bd-a97f-476d-a7c8-6988323bd178
+JavaScript warning: http://localhost/template/pc/rainbow/static/js/jquery-1.9.1.min.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: http://localhost/template/pc/rainbow/static/js/jquery-1.9.1.min.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript error: http://api.tpsns.com/js/ajax2.js, line 1: SyntaxError: expected expression, got '%'
+console.warn: LoginRecipes: "Falling back to a synchronous message for: http://localhost."
+1765934246586	addons.xpi	ERROR	System addon update list error SyntaxError: XMLHttpRequest.open: 'http://%(server)s/dummy-system-addons.xml' is not a valid URL.
+JavaScript warning: http://localhost/template/pc/rainbow/static/js/jquery-1.9.1.min.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+console.warn: "unexpected engine url type." "visualSearch"
+JavaScript error: resoJavuarce:/SJ/avcdreaiSpvtoocript erlt errosror: r/r: resesouerverr/connce://ectordevtos/js-ols/sesourcrpre://deover/concvtoolenectors/server/css-aconnectorst/or/ContentProcs/js-pejs-prorocecssWatess-acscherRstor/C-egistontenactor/ry.syCtProces.mjs, linossWatchentente 39Process4WrRegi: NsatchertotFounRegistry.sydErrsry.sy.or: Nms.mjs,o sucjs, lh line ine 3 JSPro9394: 4cessA:NotFo ctor NundEr'DevTotFouror:noolsPr No odErrorcesssuch J:'
+ NSProceo such JSProcessActor 'DevssActToolsPor 'DevToolsProcess'
+rocess'
+JavaScript error: resource://devtools/server/connectors/js-process-actor/ContentProcessWatcherRegistry.sys.mjs, line 394: NotFoundError: No such JSProcessActor 'DevToolsProcess'
+JavaScript error: resource://devtools/server/connectors/js-process-actor/ContentProcessWatcherRegistry.sys.mjs, line 394: NotFoundError: No such JSProcessActor 'DevToolsProcess'
+JavaScript error: resource://devtools/server/connectors/js-process-actor/ContentProcessWatcherRegistry.sys.mjs, line 394: NotFoundError: No such JSProcessActor 'DevToolsProcess'
+JavaScript error: resource://gre/modules/AsyncShutdown.sys.mjs, line 569: NotFoundError: No such JSProcessActor 'DevToolsProcess'
+JavaScript error: resource://gre/modules/AsyncShutdown.sys.mjs, line 569: NotFoundError: No such JSProcessActor 'DevToolsProcess'
+JavaScript error: resource://gre/modules/AsyncShutdown.sys.mjs, line 569: NotFoundError: No such JSProcess1765934845938	Marionette	INFO	Stopped listening on port 50490
+Dynamically enable window occlusion 1
+able window occlusion 1
+Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "50562" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Administrator\\AppData\\Local\\Temp\\rust_mozprofilepxVK5Y"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+Dynamically enable window occlusion 0
+1765934783922	Marionette	INFO	Marionette enabled
+1765934784011	Marionette	INFO	Listening on port 50569
+Read port: 50569
+WebDriver BiDi listening on ws://127.0.0.1:50562
+1765934784070	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:50562/devtools/browser/d66d6238-6139-4d79-bb79-2991c77bd847
+JavaScript warning: http://localhost/template/pc/rainbow/static/js/jquery-1.9.1.min.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: http://localhost/template/pc/rainbow/static/js/jquery-1.9.1.min.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1765934813987	addons.xpi	ERROR	System addon update list error SyntaxError: XMLHttpRequest.open: 'http://%(server)s/dummy-system-addons.xml' is not a valid URL.
+JavaScript error: resource://devtools/server/connectors/js-process-actor/ContentProcessWatcherRegistry.sys.mjs, line 394: NotFoundError: No such JSProcessActoJavaScript error: resourr 'DevToolsProcess'
+JavaScript error: resource://devtools/server/connectors/js-process-actor/ContentProcessWatcherRegistry.sys.mjs, line 394: NotFoundError: No such JSProcessActor 'DevToolsProcess'
+JavaScript error: resource://devtools/server/connectors/js-process-actor/ContentProcessWatcherRegistry.sys.mjs, lJavaScript erroce://ine 39r: resdevto4: Notols/seFoundErver/ource:connerror://devctors No stools/js-puch JSroces/servProces-actossAcr/Contor 'er/cotentnnecProctors/DevToessWaolsPrjs-proocesstchercessRegis'
+try.sys.mjs, line 394: NotFoundError: No such JSProcessActor 'DevToolsProcess'
+-actor/ContentProcessWatcherRegistry.sys.mjs, line 394: NotFoundError: No such JSProcessActor 'DevToolsProcess'
+JavaScript error: resource://devtools/server/connectors/js-process-actor/ContentProcessWatcherRegistry.sys.mjs, line 394: NotFoundError: No such JSProcessActor 'DevToolsProcess'
+JavaScript error: resource://gre/modules/AsyncShutdown.sys.mjs, line 569: NotFoundError: No such JSProcessActor 'DevToolsProcess'
+JavaScript error: resource://gre/modules/AsyncShutdown.sys.mjs, line 569: NotFoundError: No such JSProcessActor 'DevToolsProcess'
+JavaScript error: resource://gre/modules/AsyncShutdown.sys.mjs, line 569: NotFoundError: No such JSProcessActor 'DevToolsProcess'
+1765934846832	Marionette	INFO	Stopped listening on port 50569
+Dynamically enable window occlusion 1
+1765935238414	geckodriver	INFO	Listening on 127.0.0.1:50646
+1765935240430	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "50647" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Administrator\\AppData\\Local\\Temp\\rust_mozprofilepw5prR"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+Dynamically enable window occlusion 0
+1765935241529	Marionette	INFO	Marionette enabled
+1765935241608	Marionette	INFO	Listening on port 50654
+WebDriver BiDi listening on ws://127.0.0.1:50647
+Read port: 50654
+1765935241765	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:50647/devtools/browser/f764ee2d-dd32-4782-8a99-6057606c3e6a
+JavaScript warning: http://localhost/template/pc/rainbow/static/js/jquery-1.9.1.min.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: http://localhost/template/pc/rainbow/static/js/jquery-1.9.1.min.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript error: http://api.tpsns.com/js/ajax2.js, line 1: SyntaxError: expected expression, got '%'
+console.warn: LoginRecipes: "Falling back to a synchronous message for: http://localhost."
+1765935254761	Marionette	INFO	Stopped listening on port 50654
+Dynamically enable window occlusion 1
+1765935319041	geckodriver	INFO	Listening on 127.0.0.1:50719
+1765935321061	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "50720" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Administrator\\AppData\\Local\\Temp\\rust_mozprofileh9U5Zf"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+Dynamically enable window occlusion 0
+1765935321318	Marionette	INFO	Marionette enabled
+1765935321387	Marionette	INFO	Listening on port 50727
+WebDriver BiDi listening on ws://127.0.0.1:50720
+Read port: 50727
+1765935321523	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:50720/devtools/browser/df3b100f-00b8-4b31-9532-30a49164d225
+JavaScript warning: http://localhost/template/pc/rainbow/static/js/jquery-1.9.1.min.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: http://localhost/template/pc/rainbow/static/js/jquery-1.9.1.min.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript error: http://api.tpsns.com/js/ajax2.js, line 1: SyntaxError: expected expression, got '%'
+console.warn: LoginRecipes: "Falling back to a synchronous message for: http://localhost."
+JavaScript error: http://api.tpsns.com/js/ajax2.js, line 1: SyntaxError: expected expression, got '%'
+1765935339732	Marionette	INFO	Stopped listening on port 50727
+Dynamically enable window occlusion 1
+1765935616611	geckodriver	INFO	Listening on 127.0.0.1:50799
+1765935618624	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "50800" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Administrator\\AppData\\Local\\Temp\\rust_mozprofileCjVT9u"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+Dynamically enable window occlusion 0
+1765935618857	Marionette	INFO	Marionette enabled
+1765935618930	Marionette	INFO	Listening on port 50807
+Read port: 50807
+WebDriver BiDi listening on ws://127.0.0.1:50800
+1765935618982	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:50800/devtools/browser/2e048dc7-061d-4041-8257-7a8aab010ec8
+JavaScript warning: http://localhost/template/pc/rainbow/static/js/jquery-1.9.1.min.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: http://localhost/template/pc/rainbow/static/js/jquery-1.9.1.min.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript error: http://api.tpsns.com/js/ajax2.js, line 1: SyntaxError: expected expression, got '%'
+JavaScript error: http://api.tpsns.com/js/ajax2.js, line 1: SyntaxError: expected expression, got '%'
+console.warn: LoginRecipes: "Falling back to a synchronous message for: http://localhost."
+JavaScript error: http://api.tpsns.com/js/ajax2.js, line 1: SyntaxError: expected expression, got '%'
+JavaScript error: http://api.tpsns.com/js/ajax2.js, line 1: SyntaxError: expected expression, got '%'
+1765935648895	addons.xpi	ERROR	System addon update list error SyntaxError: XMLHttpRequest.open: 'http://%(server)s/dummy-system-addons.xml' is not a valid URL.
+1765935650583	Marionette	INFO	Stopped listening on port 50807
+Dynamically enable window occlusion 1
+console.error: services.settings: 
+  Message: NetworkError: Network error: TypeError: NetworkError: Network request failed
+  Stack:
+    APIError@resource://services-settings/RemoteSettingsClient.sys.mjs:107:1
+NetworkError@resource://services-settings/RemoteSettingsClient.sys.mjs:111:5
+_adjustedError@resource://services-settings/RemoteSettingsClient.sys.mjs:912:14
+maybeSync@resource://services-settings/RemoteSettingsClient.sys.mjs:817:38
+
+console.warn: services.settings: main/search-config-icons sync interrupted by shutdown
+console.error: (new AbortError("IndexedDB: main/tracking-protection-lists getLastModified() IndexedDB:  execute() A request was aborted, for example through a call to IDBTransaction.abort.", "resource://services-settings/IDBHelpers.sys.mjs", 16))
+1765935660791	geckodriver	INFO	Listening on 127.0.0.1:50873
+1765935662812	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "50874" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Administrator\\AppData\\Local\\Temp\\rust_mozprofileKPfkfk"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+Dynamically enable window occlusion 0
+1765935663052	Marionette	INFO	Marionette enabled
+1765935663124	Marionette	INFO	Listening on port 50881
+WebDriver BiDi listening on ws://127.0.0.1:50874
+Read port: 50881
+1765935663265	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:50874/devtools/browser/89179a7f-e827-467a-81fa-3a23a7bb73a9
+JavaScript warning: http://localhost/template/pc/rainbow/static/js/jquery-1.9.1.min.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: http://localhost/template/pc/rainbow/static/js/jquery-1.9.1.min.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript error: http://api.tpsns.com/js/ajax2.js, line 1: SyntaxError: expected expression, got '%'
+JavaScript error: http://api.tpsns.com/js/ajax2.js, line 1: SyntaxError: expected expression, got '%'
+console.warn: LoginRecipes: "Falling back to a synchronous message for: http://localhost."
+JavaScript error: http://api.tpsns.com/js/ajax2.js, line 1: SyntaxError: expected expression, got '%'
+JavaScript error: http://api.tpsns.com/js/ajax2.js, line 1: SyntaxError: expected expression, got '%'
+1765935693082	addons.xpi	ERROR	System addon update list error SyntaxError: XMLHttpRequest.open: 'http://%(server)s/dummy-system-addons.xml' is not a valid URL.
+1765935704975	Marionette	INFO	Stopped listening on port 50881
+Dynamically enable window occlusion 1
+1765935763806	geckodriver	INFO	Listening on 127.0.0.1:50953
+1765935765820	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "50954" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Administrator\\AppData\\Local\\Temp\\rust_mozprofileWSEbTt"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+Dynamically enable window occlusion 0
+1765935766050	Marionette	INFO	Marionette enabled
+1765935766120	Marionette	INFO	Listening on port 50961
+Read port: 50961
+WebDriver BiDi listening on ws://127.0.0.1:50954
+1765935766172	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:50954/devtools/browser/50d1f871-44b1-4bb5-a1ad-a2ec0dcbb220
+JavaScript warning: http://localhost/template/pc/rainbow/static/js/jquery-1.9.1.min.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: http://localhost/template/pc/rainbow/static/js/jquery-1.9.1.min.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript error: http://api.tpsns.com/js/ajax2.js, line 1: SyntaxError: expected expression, got '%'
+console.warn: LoginRecipes: "Falling back to a synchronous message for: http://localhost."
+1765935784254	Marionette	INFO	Stopped listening on port 50961
+Dynamically enable window occlusion 1
